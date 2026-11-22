@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tarek 👋
 
-<!--
-**tarek-manchester/tarek-manchester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer specialized in Flutter** — based in Cairo, Egypt 🇪🇬
+I build clean, fast cross-platform mobile apps.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|---|---|---|
+| [Project 1](link) | One-line description | Flutter, Bloc, Firebase |
+| [Project 2](link) | One-line description | Flutter, REST API |
+| [Project 3](link) | One-line description | Flutter, Provider |
+
+## 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/tarek-manchester-94519826b) • [Facebook](https://www.facebook.com/share/1C6SsQA5KA/) • [Instagram](https://www.instagram.com/tarek.manchester.22)
